@@ -1,0 +1,18 @@
+The first indices where the substring "TEST" was found in the string "TEST TEST TST TESTT TESSST TTEST KSDJFKLSJTESTKSJFKS TEST"
+
+Naive Algorithm: 0 5 14 28 42 53
+KMP Algorithm:   0 5 14 28 42 53
+BM Algorithm:    0 5 14 28 42 53
+
+The first indices where the substring "AABA" was found in the string "AABAACAADAABAABABBBBAAABAABABAAAABAABBABABBBABBA"
+
+Naive Algorithm: 0 9 12 21 24 31
+KMP Algorithm:   0 9 12 21 24 31
+BM Algorithm:    0 9 12 21 24 31
+
+The first indices where the substring "0001" was found in the string "1000111011000110001000111000110110110100001001000011101011111010111100101110110101010100111000011001"
+
+Naive Algorithm: 1 10 15 19 25 39 47 92
+KMP Algorithm:   1 10 15 19 25 39 47 92
+BM Algorithm:    1 10 15 19 25 39 47 92
+
